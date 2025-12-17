@@ -1,1 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    
+    <!-- Title -->
+    <h1>Mystical Creatures and Where to Find Them</h1>
+    
+    <!-- info content -->
+    <p>Embark on a mythical journey and uncover the secrets of creatures from legends around the world. From the depths of the ocean where the Kraken lurks to the forests home to the elusive Bigfoot, click on each image to discover the stories that have captivated human imagination for centuries.</p>
+    
+    <!-- hyperlinked image gallery -->
 
+
+  </body>
+</html>
