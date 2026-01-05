@@ -6,7 +6,7 @@ body {
 /* title style */
 h1 {
     font-family: cursive;
-    float: middle;
+    text-align: left;
 }
 
 /* subtitle style */
