@@ -3,6 +3,11 @@ body {
   background-color: #ffd690;
 }
 
+.MA1 h1 {
+    font-family: cursive;
+    text-align: center;
+}
+
 /* title style */
 h1 {
     font-family: cursive;
