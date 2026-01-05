@@ -1,0 +1,37 @@
+/* body style */
+body {
+  background-color: #ffd690;
+}
+
+/* title style */
+h1 {
+    font-family: cursive;
+}
+
+/* subtitle style */
+h2 {
+  font-family: cursive;
+}
+
+h3 {
+  font-family: cursive;
+}
+
+/* image style */
+img {
+  float: right;
+  width: 250px;
+  margin: 10px;
+  border-color: rgb(235, 194, 122);
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+/* paragraph style */
+p {
+    text-align: left;
+  font-family: cursive;
+    font-size: 14px;
+  background-color: rgb(235, 194, 122)
+}
